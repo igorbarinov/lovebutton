@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HelloFacebookSample/HelloFacebookSample.iml" filepath="$PROJECT_DIR$/../HelloFacebookSample/HelloFacebookSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MessengerSendSample.iml" filepath="$PROJECT_DIR$/MessengerSendSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../RPSSample/RPSSample.iml" filepath="$PROJECT_DIR$/../RPSSample/RPSSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scrumptious/Scrumptious.iml" filepath="$PROJECT_DIR$/../Scrumptious/Scrumptious.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SwitchUserSample/SwitchUserSample.iml" filepath="$PROJECT_DIR$/../SwitchUserSample/SwitchUserSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../facebook/facebook.iml" filepath="$PROJECT_DIR$/../../facebook/facebook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../facebook-android-sdk-4.0.1.iml" filepath="$PROJECT_DIR$/../../facebook-android-sdk-4.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../facebook/junitTests/junitTests.iml" filepath="$PROJECT_DIR$/../../facebook/junitTests/junitTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../samples.iml" filepath="$PROJECT_DIR$/../samples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../facebook/tests/tests.iml" filepath="$PROJECT_DIR$/../../facebook/tests/tests.iml" />
+    </modules>
+  </component>
+</project>

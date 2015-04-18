@@ -1,0 +1,13 @@
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/classes/debug
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-7dc9a885997fdb0bd05b7c6be9a718c21580d85d.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/gson-2.0.6-e41894b9fe88c9ab0b90c597dca5af4187adc78e.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-851c9e44273993ea276b7199e5adc634305d7a96.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/library-1.0.15-50529ae6c4a1b94bac2596f899442200794dc2f3.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/android-async-http-1.4.5-61556d137a53889071a136a617e73b471051ce69.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/retrofit-1.9.0-e1d0aeae7816dec095ddfa6a2d751164a5da2b6b.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-60789841c329098c7c3167b0f3589192777fcee9.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/gson-2.3.1-bf8a4aea5145371b0fcd09e992f7d0dee86a42ff.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/classes-03b22e3b9955e409a668cfb77fce373fbb9cddb8.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/classes-cbe47154b30924103842d5c38b88a2556157a820.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/classes-abe295aa7f595049b4acf2fc1ca4e98fc9eb31cf.jar
+/Users/bis/Desktop/facebook-android-sdk-4.0.1/samples/MessengerSendSample/build/intermediates/pre-dexed/debug/unirest-android-1.0.6-180672bcadf5e254faf2c0cbe765b6f7be54b8b8.jar
